@@ -1,5 +1,7 @@
 # VesselsSpatiotemporal
 
+It's group project for The Process of Data Science Course. (two people project). 
+
 **Solve a spatiotemporal problem and work with streaming techiniques**
 
 Nima Ports dataset: Nima_Ports. 
